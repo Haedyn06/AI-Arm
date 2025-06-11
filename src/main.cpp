@@ -4,9 +4,9 @@
 #include <PubSubClient.h>
 
 //WIFI
-const char* user = "Haykaykriz";   
-const char* pw = "3MgaAnakKo.";    
-const char* serverIP = "192.168.1.122";  
+const char* user = "Wifi";   
+const char* pw = "Password";    
+const char* serverIP = "192.168.1.XXX";  
 const int servPort = 1883;       
 
 WiFiClient espClient;
